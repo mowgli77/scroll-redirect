@@ -15,9 +15,6 @@ function App() {
                 {go &&
                     <Route path='/' component={() => { window.location = 'https://ad.admitad.com/g/r889udt5ea7ae3e44f49a499575f91/?ulp={lpurl}&pt=1'; return null;} }/>}
             </div>
-            <div>
-
-            </div>
         </BrowserRouter>
     )
 }
