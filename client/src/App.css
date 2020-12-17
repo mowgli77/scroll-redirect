@@ -1,0 +1,9 @@
+body {
+  background: url("background.png") fixed;
+  background-size: cover;
+}
+
+.App {
+  display: flex;
+  min-height: 100vh;
+}
